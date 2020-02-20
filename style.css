@@ -14,6 +14,12 @@ footer p{
 }
 
 footer {
-   border-top: 5px dashed green;
+   border-top: 5px solid rgb(247, 177, 237);
    
+}
+.text-content{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background:  rgba(255, 117, 234, 0.685);
 }
